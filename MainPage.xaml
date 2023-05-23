@@ -9,6 +9,7 @@
         <Label Text="Enter start number:" />
         <Entry x:Name="StartNumberEntry" Keyboard="Numeric" />
 
+       
         <Label Text="Enter end number:" />
         <Entry x:Name="EndNumberEntry" Keyboard="Numeric" />
 
